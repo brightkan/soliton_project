@@ -23,7 +23,8 @@ SECRET_KEY = 'rih(brf&e_wjuo2lve7!y%$(um_)kch717+rnhm2r6mrij#usd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django', 'localhost','sol-project-docker.herokuapp.com']
+ALLOWED_HOSTS = ['django', 'localhost','sol-project-docker.herokuapp.com'
+    , 'sol-project-docker-b7cp4zxgoq-uw.a.run.app']
 
 # Application definition
 PROJECT_APPS = [
